@@ -1,0 +1,13 @@
+
+1. Create Signup Api 
+2. creating sign in Api
+3. creating an Auth Middleware
+4. Get Loggerd-in User Details 
+5.Fetch All users // Exclude current login users
+6. Setting response status code
+7.Creating a chat schema & Model
+8. creating a start chat Api
+9. creating a get all chat api 
+10. creating Message schema
+11. creating a send message api
+12. Creating a get message Api
